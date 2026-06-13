@@ -15,19 +15,6 @@ I’ve been practicing LeetCode consistently for several months. This repository
 
 ⸻
 
-📂 Topics 
-
-Trees
-
-* Maximum Depth of Binary Tree ✅
-* Balanced Binary Tree ✅
-* Same Tree ✅
-* Invert Binary Tree ✅
-
-More topics and solutions will be added over time.
-
-⸻
-
 💡 Approach
 
 For each problem, I aim to:
