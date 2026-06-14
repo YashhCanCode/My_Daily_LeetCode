@@ -1,7 +1,7 @@
 import java.util.Queue;
 import java.util.LinkedList;
 
-class Solution {
+public class Maximum_Depth_of_BinaryTree {
     public int maxDepth(TreeNode root) {
         if(root == null){
             return 0;
