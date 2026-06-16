@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-class Cousins_of_a_BT {
+class Cousins_of_a_Binary_Tree {
     public boolean isCousins(TreeNode root, int x, int y) {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
