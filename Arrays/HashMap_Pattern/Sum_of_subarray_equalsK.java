@@ -1,5 +1,5 @@
 import java.util.HashMap;
-class sum_of_subarray_equalsK {
+class SumOfSubarrayEqualsK {
     public int subarraySum(int[] nums, int k) {
        HashMap<Integer, Integer> map = new HashMap<>();
        map.put(0,1);
