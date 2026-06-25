@@ -1,6 +1,6 @@
 import java.util.*;
 
-class MergeIntervals {
+class MergeIntervalsSolution {
     public int[][] merge(int[][] intervals) {
         if(intervals.length <= 1){
             return intervals;
