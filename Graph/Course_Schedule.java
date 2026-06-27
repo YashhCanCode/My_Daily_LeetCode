@@ -1,5 +1,5 @@
 import java.util.*;
-class courseSchedule {
+public class Course_Schedule {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         List<List<Integer>> graph = new ArrayList<>();
         int[] inDegree = new int[numCourses];
