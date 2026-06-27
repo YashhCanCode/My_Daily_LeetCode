@@ -1,4 +1,3 @@
-import java.util.*;
 class sort_colors {
     public void sortColors(int[] nums) {
         int left = 0;
