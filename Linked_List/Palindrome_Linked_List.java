@@ -1,5 +1,5 @@
 import java.util.Stack;
-class palindrome_linked_list {
+class Palindrome_Linked_List {
     public boolean isPalindrome(ListNode head) {
         
         Stack<Integer> stack = new Stack<>();
