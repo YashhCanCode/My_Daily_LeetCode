@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class assign_cookies {
     public int findContentChildren(int[] g, int[] s) {
         Arrays.sort(g);
         Arrays.sort(s);
