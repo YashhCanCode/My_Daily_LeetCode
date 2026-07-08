@@ -1,4 +1,4 @@
-public class Number_of_islands {
+public class islands {
     public int numIslands(char[][] grid) {
         if(grid == null || grid.length == 0 || grid[0].length == 0){
             return 0;
