@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class topKElements {
     public int[] topKFrequent(int[] nums, int k) { //hashtable + sorting
         Map<Integer, Integer> map = new HashMap<>();
         for(int num : nums){
