@@ -38,3 +38,19 @@ For each problem, I aim to:
 Started Tracking on GitHub
 
 June 2026
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashhCanCode/My_Daily_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashhCanCode/My_Daily_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashhCanCode/My_Daily_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+<!---LeetCode Topics End-->
