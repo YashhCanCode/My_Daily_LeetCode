@@ -53,4 +53,20 @@ June 2026
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashhCanCode/My_Daily_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/YashhCanCode/My_Daily_LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/YashhCanCode/My_Daily_LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/YashhCanCode/My_Daily_LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/YashhCanCode/My_Daily_LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
